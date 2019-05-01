@@ -1,0 +1,7 @@
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\UTS\UTS\UTS\bin\Debug\UTS.exe.config
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\UTS\UTS\UTS\bin\Debug\UTS.exe
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\UTS\UTS\UTS\bin\Debug\UTS.pdb
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\UTS\UTS\UTS\obj\Debug\UTS.csprojAssemblyReference.cache
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\UTS\UTS\UTS\obj\Debug\UTS.csproj.CoreCompileInputs.cache
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\UTS\UTS\UTS\obj\Debug\UTS.exe
+E:\Data\Perkuliahan\TahunAjaran_2018-2019\Informatika-7\Semester_2\Pemrograman\UTS\UTS\UTS\obj\Debug\UTS.pdb
